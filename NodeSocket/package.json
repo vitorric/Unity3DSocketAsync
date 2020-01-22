@@ -1,0 +1,14 @@
+{
+  "name": "nodesocket",
+  "version": "1.0.0",
+  "description": "Simple SocketIO to use with Unity3D SocketAsync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitor Ricardo",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
